@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JetPack Compose</string>
+    <string name="splash">SplashScreen</string>
+    <string name="str_add_plant">Add Plant</string>
+    <string name="str_save">Save</string>
+    <string name="str_fruite_Desc">Fruits are an excellent source of essential vitamins and minerals, and they are high in fiber. Fruits also provide a wide range of health-boosting antioxidants, including flavonoids.
+        Eating a diet high in fruits and vegetables can reduce a person’s risk of developing heart disease, cancer, inflammation, and diabetes. Citrus fruits and berries may be especially powerful for preventing disease.</string>
+</resources>
